@@ -1,3 +1,5 @@
+[centos]
 target1.example.com
 target2.example.com
+[ubuntu]
 target3.example.com
